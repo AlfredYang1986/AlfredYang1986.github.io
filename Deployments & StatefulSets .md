@@ -69,7 +69,10 @@
 
 # 7. 实践：部署数据库
 
-```Yaml mongodb-deployment.yaml
+部署文件
+
+mongodb-deployment.yaml
+```Yaml 
 
 apiVersion: apps/v1
 kind: Deployment

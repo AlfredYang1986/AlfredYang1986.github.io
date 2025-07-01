@@ -30,7 +30,8 @@ PV和PVC的设计实现了Pod与存储资源的解耦，使得Pod可以独立于
 
 # 4. 实践：部署存储
 
-```Yaml mongodb-pv.yaml
+mongodb-pv.yaml
+```Yaml 
 ---
 apiVersion: v1
 kind: PersistentVolume
@@ -49,7 +50,8 @@ spec:
 kubectl apply -f mongoddb-pv.yaml
 ```
 
-```Yaml mongodb-pvc.yaml
+mongodb-pvc.yaml
+```Yaml 
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
