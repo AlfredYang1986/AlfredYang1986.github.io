@@ -1,3 +1,4 @@
+
 # 00 培训
 
 1.1. [单机环境](https://alfredyang1986.github.io/Docker%20Desktop%20%E7%8E%AF%E5%A2%83)
@@ -16,7 +17,4 @@
 
 2.2. [服务的写法](https://alfredyang1986.github.io/Serving%20%E6%9C%8D%E5%8A%A1%20&%20Autoscaler)
 
-2.3. [Func的写法]()
-
-2.4. [Eventing的玩法]()
-
+2.3. [Eventing的玩法](https://alfredyang1986.github.io/Eventing)
