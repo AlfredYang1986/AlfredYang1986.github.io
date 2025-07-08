@@ -18,3 +18,5 @@
 2.2. [服务的写法](https://alfredyang1986.github.io/Serving%20%E6%9C%8D%E5%8A%A1%20&%20Autoscaler)
 
 2.3. [Eventing的玩法](https://alfredyang1986.github.io/Eventing)
+
+2.4. [Func 写法](https://alfredyang1986.github.io/Func%20%E5%86%99%E6%B3%95)
